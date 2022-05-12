@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on github pages as a fun side project.
+- 🌱 I’m currently learning coding.
+- 📫 How to reach me: you cant.
+- 😄 Pronouns: im inside/your walls.
+- ⚡ Fun fact: yes.
 
 <!--
 **defyspace/defyspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
