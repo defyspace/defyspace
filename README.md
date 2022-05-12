@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on github pages as a fun side project.
-- 🌱 I’m currently learning coding.
+- 🌱 I’m currently learning how to code.
 - 📫 How to reach me: you cant.
 - 😄 Pronouns: im inside/your walls.
 - ⚡ Fun fact: yes.
